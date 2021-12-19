@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>author</key>
+	<string>AOx0</string>
+	<key>displayName</key>
+	<string>Math Article</string>
+	<key>enabled</key>
+	<true/>
+	<key>identifier</key>
+	<string>3c4fe20f30c34d07ba52107ac8157f13</string>
+	<key>styleSheet</key>
+	<string>Style.css</string>
+	<key>type</key>
+	<string>html</string>
+	<key>version</key>
+	<integer>2</integer>
+</dict>
+</plist>
